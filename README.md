@@ -1,8 +1,17 @@
 # A LOAN MANAGEMENT SYSTEM.
 
 This is a group repository for the project,loan managemet system
-The Loans Management system enables you to manage both simply structured loans such as consumer loans, and complex loans, such as mortgage loans .The  Bank provides two types of loan such as corporate loan and retails loans to its customer. It manages their loan through three Loans sanctioning; after completing few steps the bank gives the loan sanctioning letter. It has the details of the amount of loan sanctioned by the bank. The loan sanctioning letter is an important document, keep it safe, and may be useful if there is any dispute. 
+The Loans Management system enables you to manage both simply structured loans such as consumer loans, and complex loans, such as mortgage loans .The  Bank provides two types of loan such as corporate loan and retails loans to its customer. It manages their loan through three Loans sanctioning; after completing few steps the bank gives the loan sanctioning letter. It has the details of the amount of loan sanctioned by the bank. The loan sanctioning letter is an important document, keep it safe, and may be useful if there is any dispute.
 
+## Table of Contents
+
+- [A LOAN MANAGEMENT SYSTEM.](#a-loan-management-system)
+  - [Table of Contents](#table-of-contents)
+  - [Objectives](#objectives)
+    - [Specific Objectives:](#specific-objectives)
+  - [The Users of the System](#the-users-of-the-system)
+  - [Functional Requirements](#functional-requirements)
+  
 ## Objectives
 
 ### Specific Objectives:
